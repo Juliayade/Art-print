@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<HTML lang="fr-FR">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="../style/common.css" type="text/css">
+	<link rel="stylesheet" href="../style/contact.css" type="text/css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans">
+	<TITLE>
+		Julia Lapuyade Artiste Peintre
+	</TITLE>
+</head>
+
+<BODY>
+	<header>
+
+		<h1 id="banniere">
+			<a href="accueil.html" class="special-link">
+				<span>Julia Lapuyade Artiste Peintre</span> 
+			</a>
+		</h1>
+
+		<nav id="barre_info">
+			<a href="profil.html" class="special-link inactive-page">Profil</a>
+			<a href="expositions.html" class="special-link inactive-page">Expositions</a>
+			<a href="galerie.html" class="special-link inactive-page">Galerie</a>
+			<a href="boutique.html" class="special-link inactive-page">Boutique</a>
+			<a href="contact.html" class="special-link inactive-page">Contact</a>
+
+		</nav>
+	</header>
+	<main>
+		<h2>Nous contacter</h2>
+		<div id="content-container">
+			<p>
+				Nous contacter pour toute(s) éventuelle(s) question(s): <A
+				href="https://www.microsoft.com/en-us/microsoft-365/outlook">julia@lapuyade.fr</A>
+			</p>
+			
+		</div>
+	</main>
+	<footer>
+		<span>
+			© Julia Lapuyade 2025
+		</span>
+		<a href="https://www.tiktok.com/@juju_draw_" class="special-link"><img class="social_icons" src="../res/icons/tiktok.jpg"
+				alt="Tiktok"></a>
+		<a href="https://www.instagram.com/julia.lapuyade.art/" class="special-link"><img class="social_icons"
+				src="../res/icons/instagram.svg" alt="Instagram"></a>
+	</footer>
+
+</HTML>
