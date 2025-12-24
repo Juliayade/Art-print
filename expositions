@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<HTML lang="fr">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="../style/common.css" type="text/css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans">
+	<TITLE>
+		Julia Lapuyade Artiste Peintre
+	</TITLE>
+</head>
+
+<body>
+	<header>
+
+		<h1 id="banniere">
+			<a href="accueil.html" class="special-link">
+				<span>Julia Lapuyade Artiste Peintre </span> 
+			</a>
+		</h1>
+
+		<nav id="barre_info">
+			<a href="profil.html" class="special-link inactive-page">Profil</a>
+			<a href="expositions.html" class="special-link inactive-page">Expositions</a>
+			<a href="galerie.html" class="special-link inactive-page">Galerie</a>
+			<a href="boutique.html" class="special-link inactive-page">Boutique</a>
+			<a href="contact.html" class="special-link inactive-page">Contact</a>
+
+		</nav>
+	</header>
+	<main>
+		<h2>Les expositions précédentes</h2>
+
+		<div id="content-container">
+			<h3>Expositions précédentes</h3>
+			<dl>
+			<dt>Paris 2025</dt>
+				<dd>
+					<dd>
+					<img class="img" src="../res/expositions/i14.jpg" />
+					<img class="img" src="../res/expositions/i15.jpg" title="Exposition" />
+					<img class="img"src="../res/expositions/i16.jpg" title="Exposition" />
+					<p>&nbsp;</p>
+					<p>&nbsp;</p>
+					
+					<p> Galerie The Muisca
+					</p>
+					<p>Exposition de deux oeuvres originales
+					Lien vers la galerie en ligne: oeuvres originales disponibles
+					<p><A href="https://www.themuisca.com/product-page/cabo-carvoeiro-the-famous-rock">Cabo Carvoeiro </A></p>
+					<p>
+					<A href="https://www.themuisca.com/product-page/un-autre-monde"> Un Autre monde</A></p>
+					</p>
+			<dt>Paris 6ème arr 2024</dt>
+				<dd>
+					<dd><img class="img" src="../res/expositions/i17.jpg" title="Exposition" />
+					<dd><img class="img" src="../res/expositions/i12.jpg" title="Exposition" />
+					<dd><img class="img" src="../res/expositions/i19.jpg" title="Exposition" />
+					<p>&nbsp;</p>
+					<p> Galerie Makowski 
+					</p>
+					<p>Exposition de trois oeuvres originales
+					</p>
+					</p>
+				</dd>
+			<dt>Bayeux 2024</dt>
+				<dd>
+					<dd><img class="img" src="../res/expositions/affiche_bayeux.jpg" title="Exposition" />
+					<p>&nbsp;</p>
+					<p>Association Art du Pastel en Normandie
+					</p>
+					<p>Exposition de trois oeuvres originales 
+					</p>
+					</p>
+				</dd>
+			<dt>Caen 2023</dt>
+				<dd>
+				<img class="img" src="../res/expositions/i18.jpg" title="Exposition" />
+				<img class="img" src="../res/expositions/i9.jpg" title="Exposition" />
+				<img class="img" src="../res/expositions/i16.jpg" title="Exposition" />
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
+					<p> Galerie Crearte </p>
+					<p>Exposition de trois oeuvres originales
+					</p>
+					</p>
+				</dd>
+			<dt>Artist Talk Magazine 2023</dt>
+				<dd><img class="img" src="../res/expositions/i13.jpg" title="Artist Talk mag" />
+					<img class="img" src="../res/expositions/p_artist_talk.jpg" title="Artist Talk mag1" />
+					<p>Présentation de trois oeuvres dans le magazine britannique "Artist Talk Magazine"
+					<p><A href="https://www.artisttalkmagazine.com/issue-26">Lien Artist Talk Magazine</A></p>
+					</p>
+				    </p>
+				</dd>
+			</dl>
+		</div>
+		
+		<h2>Les expositions à venir </h2>
+		<div id="content-container">
+			<h3>Présentation des expositions en cours ou prévues</h3>
+			<dl>
+				<dt>Bayeux 2026</dt>
+				<dd>
+					<p>Association Art du Pastel en Normandie
+					</p>
+					<p>Exposition de trois oeuvres originales 
+					</p>
+					</p>
+				</dd>
+			</dl>
+		</div>
+		
+		
+		
+	</main>
+	<footer>
+		<span>
+			© Julia Lapuyade 2025
+		</span>
+		<a href="https://www.tiktok.com/@juju_draw_" class="special-link"><img class="social_icons" src="../res/icons/tiktok.jpg"
+				alt="Tiktok"></a>
+		<a href="https://www.instagram.com/julia.lapuyade.art/" class="special-link"><img class="social_icons"
+				src="../res/icons/instagram.svg" alt="Instagram"></a>
+	</footer>
+</body>
+
+</HTML>
