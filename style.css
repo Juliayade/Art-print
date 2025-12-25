@@ -168,7 +168,7 @@ main::before {
     z-index: -1;
 
     display: block;
-    background-image: url('../res/background_2.jpg');
+    background-image: url('/background_2.jpg');
     background-size: cover;
     width: 110%;
     height: 110%;
