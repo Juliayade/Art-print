@@ -78,7 +78,8 @@ nav#barre_info a {
 }
 
 nav#langues {
-	display: right
+	display: right;
+	padding-right: 2%;
 }
 
 .inactive-page:hover {
