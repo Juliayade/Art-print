@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<HTML lang="fr">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="/style.css" type="text/css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open%20Sans">
+	<title>
+		Julia Lapuyade Painter
+	</title>
+</head>
+
+<body>
+	<header>
+
+		<h1 id="banniere">
+      <nav>
+			<a href="index.html" class="special-link"</a>
+      <a href="index-en.html" class="special-link"</a>
+      </nav>
+				<span>Julia Lapuyade Artiste Painter</span> 
+		</h1>
+
+		<nav id="barre_info">
+			<a href="profil-en.html" class="special-link inactive-page">Profil</a>
+			<a href="exhibition.html" class="special-link inactive-page">Exhibition</a>
+			<a href="galery.html" class="special-link inactive-page">Galery</a>
+			<a href="shop.html" class="special-link inactive-page">Shop</a>
+			<a href="contact-en.html" class="special-link inactive-page">Contact</a>
+
+		</nav>
+	</header>
+	
+	<body class="page-accueil">
+		<main>
+			<h2 class="titre-accueil">Welcome</h2>
+			<h2 class="titre-accueil">Bring color to your world</h2>
+		</main>
+	</body>
+	
+	<footer>
+		<span>
+			© Julia Lapuyade 2025
+		</span>
+		<a href="https://www.tiktok.com/@juju_draw_" class="special-link"><img class="social_icons" src="/tiktok.jpg"
+				alt="Tiktok"></a>
+		<a href="https://www.instagram.com/julia.lapuyade.art/" class="special-link"><img class="social_icons"
+				src="/instagram.svg" alt="Instagram"></a>
+	</footer>
+</body>
+
+</html>  
