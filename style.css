@@ -77,6 +77,10 @@ nav#barre_info a {
     border: 3px solid var(--header-color);
 }
 
+nav#langues {
+	display: right
+}
+
 .inactive-page:hover {
     animation: 1.0s hovernav forwards;
 }
