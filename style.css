@@ -77,10 +77,20 @@ nav#barre_info a {
     border: 3px solid var(--header-color);
 }
 
-nav#langues {
-	display: right;
-	padding-right: 2%;
+nav#langues a {
+  color: white;
+  border: 1px solid white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
 }
+
+nav#langues a:hover {
+  background-color: white;
+  color: black;
+}
+
+nav#
 
 .inactive-page:hover {
     animation: 1.0s hovernav forwards;
