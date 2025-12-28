@@ -89,6 +89,9 @@ nav#langues a {
   padding: 5px 10px;
   border-radius: 5px;
   font-size: 0.9rem;
+  display: flex;
+  justify-content: flex-end; /* ➜ à droite */
+  gap: 15px;
 }
 
 nav#langues a:hover {
