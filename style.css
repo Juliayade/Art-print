@@ -77,6 +77,12 @@ nav#barre_info a {
     border: 3px solid var(--header-color);
 }
 
+nav#langues {
+  display: flex;
+  justify-content: flex-end; /* ➜ à droite */
+  gap: 15px;
+}
+
 nav#langues a {
   color: white;
   border: 1px solid white;
