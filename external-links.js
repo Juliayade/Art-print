@@ -5,5 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
       link.target = "_blank";
       link.rel = "noopener noreferrer";
     }
+    alert("JS OK");
   });
 });
