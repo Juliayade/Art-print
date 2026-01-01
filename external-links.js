@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
    alert("JS OK");
   document.querySelectorAll("a[href]").forEach(link => {
