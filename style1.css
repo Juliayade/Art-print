@@ -62,12 +62,20 @@ nav#barre_info a:hover {
   background-color: white;
   color: black;
 }
-
+nav#barre_info a.special-link {
+    padding: 3%;
+    margin: 5px;
+	color: white;
+    border-radius: 10px;
+    border: 3px solid var(--header-color);
+	background-color: transparent;
+}
 nav#langues {
     display: flex;
     justify-content: flex-end;
     gap: 15px;
 }
+
 
 nav#langues a {
     color: white;
@@ -399,11 +407,4 @@ img:hover {
     #content-container { width: 100%; margin: 20px auto; padding: 8px; }
     #gallery, #full-picture { width: 100%; height: auto; }
 
-nav#barre_info a {
-    padding: 3%;
-    margin: 5px;
-	color: white;
-    border-radius: 10px;
-    border: 3px solid var(--header-color);
-	background-color: transparent;
-}
+
