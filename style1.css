@@ -64,10 +64,6 @@ nav#barre_info a.special-link {
     border: 3px solid var(--header-color);
 }
 
-nav#barre_info a:hover {
-  background-color: white;
-  color: black;
-}
 
 nav#langues {
     display: flex;
