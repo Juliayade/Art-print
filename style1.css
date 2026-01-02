@@ -309,6 +309,55 @@ main h2 {
     background-color: #740404;
 }
 
+
+/* Footer */
+
+.social_icons {
+    vertical-align: middle;
+    width: 25px;
+    margin-left: 25px;
+    filter: invert(100%)
+}
+
+.img{
+	max-width: 100px;
+    height: auto;
+
+}
+
+.img-profil{
+	max-width: 300px;
+    height: auto;
+
+}
+
+.page-accueil main h2 {
+  color: white;
+  text-align: center;
+  margin-left: 0;
+  grid-column: 1 / 3;
+}
+	
+.titre-accueil {
+  color: white;
+  text-align: center;
+   margin-top: 5%;
+  margin-left: 0;
+  grid-column: 1 / 3;
+}	
+	
+
+footer {
+    padding: 3px 15px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 25px;
+    color: white;
+    background-color: var(--footer-color);
+}
+
+
 /** ---------------- Hover Zoom ---------------- **/
 
 img:hover {
