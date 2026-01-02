@@ -56,12 +56,6 @@ nav#barre_info {
     display: inline-flex;
 }
 
-
-
-nav#barre_info a:hover {
-  background-color: white;
-  color: black;
-}
 nav#barre_info a.special-link {
     padding: 3%;
 	color: white;
@@ -69,6 +63,12 @@ nav#barre_info a.special-link {
     border-radius: 10px;
     border: 3px solid var(--header-color);
 }
+
+nav#barre_info a:hover {
+  background-color: white;
+  color: black;
+}
+
 nav#langues {
     display: flex;
     justify-content: flex-end;
