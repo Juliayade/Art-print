@@ -94,6 +94,14 @@ nav#langues a:hover {
     animation: 1.0s hovernav forwards;
 }
 
+.special-link,
+.special-link:visited,
+.special-link:hover,
+.special-link:active {
+    color: inherit;
+    text-decoration: inherit;
+    background-color: inherit;
+
 .active-page,
 .active-page:active,
 .active-page:hover {
