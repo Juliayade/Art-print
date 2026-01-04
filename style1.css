@@ -28,6 +28,7 @@ body {
 /** ---------------- Header & Navigation ---------------- **/
 
 h1#banniere img {
+	text-align: left;
     vertical-align: middle;
     width: 60px;
 }
@@ -40,6 +41,8 @@ header {
 
 #banniere {
     font-weight: normal;
+	width: 350px;
+    height: 100%;
     display: inline-block;
     padding-left: 2%;
     margin: 0;
