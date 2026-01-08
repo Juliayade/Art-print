@@ -434,6 +434,7 @@ transform: scale(2);
     nav#barre_info a { font-size: 0.9rem; padding: 4px; }
     #content-container { width: 100%; margin: 20px auto; padding: 8px; }
     #gallery, #full-picture { width: 100%; height: auto; }
+	}
 
 
 
