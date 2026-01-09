@@ -192,7 +192,7 @@ main::before {
     z-index: -1;
 
     display: block;
-    background-image: url('/background_2.jpg');
+    background-image: url('/background_3.jpg');
     background-size: cover;
     width: 110%;
     height: 110%;
