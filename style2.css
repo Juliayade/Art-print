@@ -142,7 +142,7 @@ nav#langues a:hover {
 }
 
 ..page-accueil main h2 {
-  color: black;
+  color: white;
   text-align: center;
   margin-left: 0;
   grid-column: 1 / 3;
