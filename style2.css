@@ -4,7 +4,7 @@
     --header-color: #023047;
     --accent-color: #fb8500;
     --footer-color: #ffb703;
-    --content-bg-color: #FAF3E0;
+    --content-bg-color: #E6D5B8;
 }
 
 body {
@@ -139,7 +139,7 @@ nav#langues a:hover {
 	max-width: 500px;
     height: auto;
 	margin-left: 15px;
-	margin-top: 25%;
+	margin-top: 20%;
 }
 
 ..page-accueil main h2 {
