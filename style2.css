@@ -4,7 +4,7 @@
     --header-color: #023047;
     --accent-color: #fb8500;
     --footer-color: #ffb703;
-    --content-bg-color: #E6D5B8;
+    --content-bg-color: #F5F5DC;
 }
 
 body {
@@ -136,7 +136,7 @@ nav#langues a:hover {
 }
 
 .img-profil{
-	max-width: 500px;
+	max-width: 800px;
     height: auto;
 	margin-left: 15px;
 	margin-top: 20%;
